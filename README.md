@@ -1,4 +1,4 @@
-# Submission 1: Nama Proyek Anda
+# Submission 1: Heart Attack Prediction
 Nama: Nabila Kumala Gantari
 
 Username dicoding: nkumala16
